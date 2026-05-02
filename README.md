@@ -48,9 +48,9 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3F1MmJheHh2MTgyeTJyYWQ0b
 
 </div> -->
 
-<!-- ---
+ ---
 
-### 🐍 Contribution Snake
+<!--### 🐍 Contribution Snake-->
 
 <div align="center">
 
