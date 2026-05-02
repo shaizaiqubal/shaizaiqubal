@@ -1,6 +1,6 @@
 <div>
     
-## Hi, I'm Shaiza! 
+## Hi, I'm Shaiza! ✨ 
 
 CS student passionate about Machine Learning and building things that actually work on messy, real-world data.
 
@@ -14,7 +14,7 @@ CS student passionate about Machine Learning and building things that actually w
 `Python` `HuggingFace Transformers` `scikit-learn` `FastAPI` `Streamlit` 
 
 ### 📬 Reach me
-- LinkedIn: [linkedin.com/in/shaizaiqubal](https://linkedin.com/in/yourhandle)
+- LinkedIn: [linkedin.com/in/shaizaiqubal](linkedin.com/in/shaiza-iqubal-8ab0493a2/)
 - Email: [shaizaiqubal@gmail.com](mailto:shaizaiqubal@gmail.com)
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=937094&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaiza!;Student+%7C+AI+%26+ML+Enthusiast;Always+learning%2C+always+curious+%E2%9C%A8" alt="Typing SVG" /> -->
