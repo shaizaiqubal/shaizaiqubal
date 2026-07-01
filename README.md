@@ -7,9 +7,7 @@ CS student passionate about Machine Learning and building things that actually w
 ---
 
 ### 🔭 What I'm working on
-- **Hinglish Sentiment Analyzer** — fine-tuning XLM-RoBERTa on a self-annotated Hinglish dataset to solve code-mixed text sentiment.
-- **DebugML** - An LLM-driven environment for intelligent ML pipeline debugging and optimization.
-
+- **Primrose** : An AI-powered research discovery platform that uses embeddings, semantic search, topic discovery, and knowledge graphs to help researchers explore papers beyond citations and keyword search.
 ### 🛠️ Tools I use
 `Python` `HuggingFace Transformers` `scikit-learn` `FastAPI` `Streamlit` 
 
