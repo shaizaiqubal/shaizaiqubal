@@ -4,7 +4,7 @@
 
 CS student passionate about Machine Learning and building things that actually work on messy, real-world data.
 
----
+
 
 ### 🔭 What I'm working on
 - **Primrose** : An AI-powered research discovery platform that uses embeddings, semantic search, topic discovery, and knowledge graphs to help researchers explore papers beyond citations and keyword search.
@@ -23,20 +23,10 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3F1MmJheHh2MTgyeTJyYWQ0b
 
 </div>
 
----
 
-### 🚀 Currently Learning
 
-<div>
 
-```
-📚  Machine Learning — from fundamentals to real-world applications
-    ├── Supervised & Unsupervised Learning
-    ├── Model Evaluation & Optimization
-    └── Exploring Deep Learning & Neural Networks
-```
 
-</div>
 <!-- ### 📊 GitHub Stats
 
 <!-- <div align="center">
@@ -46,7 +36,7 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3F1MmJheHh2MTgyeTJyYWQ0b
 
 </div> -->
 
- ---
+ 
 
 <!--### 🐍 Contribution Snake-->
 
@@ -56,7 +46,7 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3F1MmJheHh2MTgyeTJyYWQ0b
 
 </div>
 
----
+
 
 
 
